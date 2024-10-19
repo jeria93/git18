@@ -1,3 +1,1 @@
-Min första lokala fil
-
-Den här texten las till från github.
+Den här texten skrev på githubs hemsida
